@@ -1,0 +1,39 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build directories and files
+/build/
+dist/
+node_modules/
+vendor/
+
+# Logs
+*.log
+
+# Air hot reload config
+.air.toml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*
+.env.*.local
+
+# Miscellaneous
+*.bak
+*.tmp
